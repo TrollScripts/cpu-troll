@@ -6,7 +6,9 @@ This is part of the larger Chaos Troll Suite meant to provide FaaS (Failure as a
 # Usage
 Run the executable in any prompt and pass in the cpu usage percentage out of 100 and the length of time in seconds for the latency to last.
 
-`./cpu-troll.exe 100 15` will run the CPU at 100% load for 15 seconds.
+`./cpu-troll.exe 100 15` 
+
+will run the CPU at 100% load for 15 seconds.
 
 # Dependencies
 Golang - https://golang.org/
